@@ -1,5 +1,5 @@
 # blooket-hack
-The real blooket hack (zastix isnt real)
+The real blooket hack (still creating...)
 
 Gamemodes we support:
 - Tower Defense
