@@ -16,5 +16,5 @@ The Blooket hack should work immediately after.
 
 
 # Reach me
-If my hack isn't working for you, have any questions, want to make a proposition, or anything else reach me on discord.
+If my hack isn't working for you, have any questions, want to make a proposition, or anything else reach me on discord. My discord is: 
 Kxing#9323
