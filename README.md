@@ -3,7 +3,10 @@ The real blooket hack (still creating...)
 
 Gamemodes we support:
 - Tower Defense
-- More coming soon!
+- Crypto
+- Factory
+- Gold Quest
+- More Coming Soon!
 
 
 # How to Use
