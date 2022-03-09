@@ -1,3 +1,15 @@
+# Announcements
+BLOOKET HAS BLOCKED CERTAIN CODES TO STOP HACKING. 
+My friend is working on bypasses while I am working to update and make new hacks so that they work again.
+
+CURRENTLY the only WORKING game mode is GOLD QUEST. I have updated it but no other hacks are working. 
+
+More news coming soon. . .
+
+
+
+
+
 # blooket-hack
 The real blooket hack (still creating...)
 
