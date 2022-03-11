@@ -1,8 +1,11 @@
 # Announcements
 BLOOKET HAS BLOCKED CERTAIN CODES TO STOP HACKING. 
-My [friend](https://github.com/ZasticBradyn) is working on bypasses while I am working to update and make new hacks so that they work again.
+My [friend](https://github.com/ZasticBradyn) has created bypasses for certain commands and now I have updated most of my hacks.
 
-CURRENTLY the only WORKING game mode is GOLD QUEST. I have updated it but no other hacks are working. 
+Working Game modes:
+- Gold Quest
+- Crypto
+- Add tokens in tower defense
 
 More news coming soon. . .
 
