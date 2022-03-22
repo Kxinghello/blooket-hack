@@ -1,11 +1,6 @@
 # Announcements
-BLOOKET HAS BLOCKED CERTAIN CODES TO STOP HACKING. 
-My [friend](https://github.com/ZasticBradyn) has created bypasses for certain commands and now I have updated most of my hacks.
+Blooket has updated there whole security system. NO hacks work right now.
 
-Working Game modes:
-- Gold Quest
-- Crypto
-- Add tokens in tower defense
 
 More news coming soon. . .
 
