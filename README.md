@@ -20,8 +20,7 @@ Gamemodes we support:
 
 
 # How to Use
-First, copy the script that you want to use from the dedicated file.
-Then, type in `javascript:` into the adress bar. 
-Afterwards, paste in the script that you have copied.
-Once you have finished that, just press enter to activate the hack.
-The Blooket hack should work immediately after.
+- copy the script from its specific file
+- go on blooket and type `javascript:` into the URL bar
+- press enter
+- then the cheats should run
