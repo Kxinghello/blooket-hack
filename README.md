@@ -1,12 +1,5 @@
-# Announcements
-Blooket has updated there whole security system. NO hacks work right now.
-
-
-More news coming soon. . .
-
-
-
-
+# WARNING
+blooket has a anticheat in place currently, so if you get banned by using<br>Any of our cheats, We dont take responsibility, it is your choice to use them.
 
 # blooket-hack
 The real blooket hack (still creating...)
