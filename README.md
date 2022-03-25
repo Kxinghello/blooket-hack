@@ -4,12 +4,7 @@ blooket has a anticheat in place currently, so if you get banned by using<br>Any
 # blooket-hack
 The real blooket hack (still creating...)
 
-Gamemodes we support:
-- Tower Defense
-- Crypto
-- Factory
-- Gold Quest
-- More Coming Soon!
+Currently I am pausing work on blooket hacks.
 
 
 # How to Use
